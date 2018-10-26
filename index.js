@@ -1,1 +1,3 @@
-var recipes = Object.assign({}, 'object')
+var Objects = new Object({
+  recipes: 'object'
+})
