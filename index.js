@@ -2,9 +2,8 @@ var recipes = new Object({
   recipes : 'object'
 })
 
-var obj = new Object({ prop: 1 })
-
-function destructivelyUpdateObjectWithKeyAndValue(object, key, value ){
+function updateObjectWithKeyAndValue(object, key, value ){
+  var obj = { prop: 1 }
   obj.prop2 = 2
   return obj
 }
