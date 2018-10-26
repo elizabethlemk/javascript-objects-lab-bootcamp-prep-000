@@ -1,3 +1,3 @@
-var Objects = new Object({
+var recipes = new Object({
   recipes : 'object'
 })
