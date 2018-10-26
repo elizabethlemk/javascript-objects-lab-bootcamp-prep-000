@@ -1,3 +1,1 @@
-var newObj = Object.assign({
-  
-})
+var recipes = Object.assign({}, 'object')
